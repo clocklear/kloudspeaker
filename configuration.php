@@ -1,5 +1,6 @@
 <?php
     $CONFIGURATION = array(
+        "timezone" => "America/Chicago",
         "db" => array(
             "type" => "sqlite3",
             "file" => "/data/sqlite.db"
