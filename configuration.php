@@ -1,4 +1,5 @@
 <?php
+    // ref: https://github.com/sjarvela/kloudspeaker/wiki/Backend-configuration-options
     $CONFIGURATION = array(
         "timezone" => "America/Chicago",
         "db" => array(
